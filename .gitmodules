@@ -3,4 +3,4 @@
 	url = https://github.com/mavirique/gta_vi_landing_pages.git
 [submodule "gsap_cocktails"]
 	path = gsap_cocktails
-	url = ./gsap_cocktails
+	url = https://github.com/mavirique/gsap_cocktails.git
