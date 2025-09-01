@@ -1,3 +1,6 @@
 [submodule "gta_vi_landing_pages"]
 	path = gta_vi_landing_pages
 	url = https://github.com/mavirique/gta_vi_landing_pages.git
+[submodule "gsap_cocktails"]
+	path = gsap_cocktails
+	url = ./gsap_cocktails
